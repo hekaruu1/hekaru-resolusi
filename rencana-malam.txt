@@ -3,7 +3,7 @@ rencana malam hekaruu
 -javascript (optional)
 * native
 * framework
-angular
+viu
 react
 -REACT
 php laravel
