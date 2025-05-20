@@ -4,4 +4,6 @@ rencana malam hekaruu
 -javascript (optional)
 * native
 * framework
+viu
+react
 -REACT
