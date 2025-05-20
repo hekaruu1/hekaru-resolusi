@@ -1,9 +1,9 @@
 rencana malam hekaruu
 
--lanjutin belajar git dan github
 -javascript (optional)
 * native
 * framework
 viu
 react
 -REACT
+php laravel
